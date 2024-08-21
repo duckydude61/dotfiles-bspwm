@@ -12,13 +12,6 @@ alsa-utils
 rofi
 feh
 
-
-
-
-
-
-
-
 # for ubuntu and debian users
 sudo apt install bspwm sxhkd picom dunst flameshot alacritty polybar alsa-utils rofi  feh 
 
