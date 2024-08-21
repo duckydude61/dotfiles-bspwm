@@ -21,6 +21,6 @@ picom --experimental-backends &
 xsetroot -cursor_name left_ptr & 
 bspc config focus_follows_pointer true
 flameshot &
-feh --bg-fill $HOME/Downloads/blue-sky/wallpapers/blue3.png
+feh --bg-fill $HOME/.config/bspwm/wallpaper/nord_wallpaper
 ~/.config/polybar/./launch.sh
 dunst &
