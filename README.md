@@ -2,14 +2,14 @@
 nord dotfiles bspwm
 
 # for ubuntu and debian users
-sudo apt install bspwm sxhkd picom dunst flameshot alacritty polybar alsa-utils rofi (alsa-utils for audio drivers)
+sudo apt install bspwm sxhkd picom dunst flameshot alacritty polybar alsa-utils rofi  feh 
 
 
 # for arch linux (btw  i hope manjaro users dont use this dotfiles)
-sudo pacman -s bspwm sxhkd picom dunst flameshot alacritty polybar alsa-utils rofi
+sudo pacman -s bspwm sxhkd picom dunst flameshot alacritty polybar alsa-utils rofi feh
 
 # for fedora users
-sudo dnf install bspwm sxhkd picom dunst flameshot alacritty polybar alsa-utils rofi
+sudo dnf install bspwm sxhkd picom dunst flameshot alacritty polybar alsa-utils rofi feh
 
 # for gentoo users well its not out yet
 
