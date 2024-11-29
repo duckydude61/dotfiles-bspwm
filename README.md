@@ -25,7 +25,7 @@ sudo dnf install bspwm sxhkd picom dunst flameshot alacritty polybar alsa-utils 
 # for gentoo users well its not out yet
 
 # installing dotfiles
-git clone https://github.com/hdgetban/dotfiles-bspwm.git 
+git clone this github 
 and just copy all files and put it in .config
 
 
